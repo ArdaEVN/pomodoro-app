@@ -87,7 +87,7 @@ class PomodoroApp:
         self.master.title("Pomodoro Timer")
         self.master.geometry('1200x300')  # Wider window for better layout
 
-        self.sound_file = "alarm.wav"  # Path to your sound file
+        self.sound_file = "mount-blade-warband-quest_succeeded.wav"  # Path to your sound file
         colors = ['light blue', 'light green', 'light yellow', 'light pink']
 
         for color in colors:
